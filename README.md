@@ -4,7 +4,7 @@ Example application for controlling a Parrot Bebop drone with a Playstation 3 co
 
 How to run
 ----------
-> npm init
+> npm install
 
 - Start drone and connect to its wifi hotspot
 - Connect dualshock 3 controller to PC
