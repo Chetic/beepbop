@@ -11,3 +11,9 @@ How to run
 
 > nodejs index.js
 
+- □ to take off
+- ✕ to land
+- △ for emergency stop
+- Right stick up/down for altitude controls
+- Right stick left/right for rotational controls
+- Left stick for planar controls
