@@ -1,0 +1,33 @@
+{
+  "name": "beepbop",
+  "version": "1.0.0",
+  "description": "Example application for controlling a Parrot Bebop drone with a Playstation 3 controller, including video streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Chetic/beepbop"
+  },
+  "keywords": [
+    "parrot",
+    "drone",
+    "dualshock",
+    "sixaxis",
+    "playstation",
+    "controller",
+    "video",
+    "streaming"
+  ],
+  "author": "Chetic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetic/beepbop/issues"
+  },
+  "dependencies": {
+    "broadway-player": "^0.1.1",
+    "cylon": "^1.2.0",
+    "node-bebop": "^0.4.1"
+  }
+}
